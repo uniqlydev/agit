@@ -1,1 +1,4 @@
 .agit/
+
+# Local CLI binary
+/agit
